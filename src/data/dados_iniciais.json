@@ -1,0 +1,85 @@
+{
+    "categorias": [
+      {
+        "titulo": "Cadê a chave?",
+        "link": "https://www.alura.com.br/formacao-front-end",
+        "cor": "#00C86F",
+        "videos": [
+          {
+            "titulo": "PASSANDO MAL DE TANTO COMER - Ep. 1475",
+            "url": "https://www.youtube.com/watch?v=LQ7DlnSSHrI"
+          },
+          {
+            "titulo": "É OBRIGAÇÃO DELA! #FazAProvaNilce - Ep.1476",
+            "url": "https://www.youtube.com/watch?v=JB2HPHO7qgU&t=584s"
+          },
+          {
+            "titulo": "POR ESSA ELE NÃO ESPERAVA!- Ep.1474",
+            "url": "https://www.youtube.com/watch?v=OvBfj6gG1yI"
+          } 
+        ]
+      },
+      {
+        "titulo": "Coisa de nerd",
+        "cor": "#6BD1FF",
+        "videos": [
+          {
+            "titulo": "iPHONE COPIOU O ANDROID! - iOS 14",
+            "url": "https://www.youtube.com/watch?v=mOcupUQvBg0"
+          }
+        ]
+      },
+      {
+        "titulo": "República coisa de nerd",
+        "cor": "#9cd33b",
+        "videos": [
+          {
+            "titulo": "MEUS ANTIGOS MAPAS NO MINECRAFT RTX!",
+            "url": "https://www.youtube.com/watch?v=F1WGj5j1u38"
+          }
+        ]
+      },
+      {
+        "titulo": "Depois das Onze",
+        "cor": "orange",
+        "videos": [
+          {
+            "titulo": "DESAFIO DA ADIVINHAÇÃO! - Depois das Onze",
+            "url": "https://www.youtube.com/watch?v=j1OdxEBoxyg"
+          }
+        ]
+      },
+      {
+        "titulo": "Estudos",
+        "cor": "#6b5be2",
+        "videos": [
+          {
+            "titulo": "(EULER - PARTE II)",
+            "url": "https://www.youtube.com/watch?v=Y1hSW5bOknw"
+          },
+          {
+            "titulo": "Relatividade: como se comporta a FORÇA quando mudamos de referencial?",
+            "url": "https://www.youtube.com/watch?v=74IrdYKl4Fw"
+          },
+          {
+            "titulo": "Como me Tornei um Campeão da Matemática #5: A Minha Primeira Premiação na OBM",
+            "url": "https://www.youtube.com/watch?v=8m7GGv017mg"
+          }
+        ]
+      },
+      {
+        "titulo": "Kureito",
+        "cor": "red",
+        "videos": [
+          {
+            "titulo": "6 MANEIRAS DE MELHORAR SEU CURRÍCULO ESCOLAR (para o MEXT e outras SCHOLARSHIPS APPLICATIONS)",
+            "url": "https://www.youtube.com/watch?v=zcByJSS4rFA&t=447s"
+          },
+          {
+            "titulo": "MEXT(2015): MATEMATICA A 2",
+            "url": "https://www.youtube.com/watch?v=oGZKaASJQQk"
+          }
+        ]
+      }
+    ]
+  } 
